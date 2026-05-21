@@ -1,4 +1,4 @@
-# ghostmesh-aio
+# GHOSTMESH · AIO
 Agentic Intelligence Operations Mesh for organizing AI agents, workflows, prompts, automations, and business command systems.
 
 # GHOSTMESH · AIO

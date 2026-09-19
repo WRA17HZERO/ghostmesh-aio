@@ -1,0 +1,16 @@
+{
+  "name": "GHOSTMESH · AIO Docs",
+  "install": "npm install",
+  "terminals": [
+    {
+      "name": "docs-preview",
+      "command": "npm run docs"
+    }
+  ],
+  "ports": [
+    {
+      "name": "docs-preview",
+      "port": 3000
+    }
+  ]
+}

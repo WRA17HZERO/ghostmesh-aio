@@ -1,0 +1,5 @@
+- [Home](/)
+- [Overview](docs/ghostmesh-overview.md)
+- [Command Architecture](docs/command-architecture.md)
+- [Agent Roles](docs/docs/agent-roles.md)
+- [Roadmap](docs/docs/docs/roadmap.md)

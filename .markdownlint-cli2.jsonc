@@ -1,0 +1,11 @@
+{
+  // Documentation is prose; do not enforce hard line wrapping.
+  "config": {
+    "MD013": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": [
+    "node_modules",
+    "_sidebar.md"
+  ]
+}

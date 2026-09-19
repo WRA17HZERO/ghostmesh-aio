@@ -1,0 +1,14 @@
+{
+  "name": "ghostmesh-aio-docs",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local documentation preview tooling for the GHOSTMESH · AIO documentation archive.",
+  "scripts": {
+    "docs": "docsify serve . --port 3000",
+    "lint:md": "markdownlint-cli2 \"**/*.md\" \"#node_modules\""
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4",
+    "markdownlint-cli2": "^0.14.0"
+  }
+}
